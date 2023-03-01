@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.full{
+	display:flex;
+	justify-content:center;
+}
+.a{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.b{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.c{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
