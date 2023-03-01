@@ -1,7 +1,8 @@
 
 /* Your CSS Code here. */
-.full{
+.holder{
 	display:flex;
+	flex-flow:row wrap;
 	justify-content:center;
 }
 .a{
